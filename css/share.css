@@ -1,0 +1,18 @@
+body{background-color:#dad6c0;font-size:12px;font-family:Tahoma, Helvetica, sans-serif;margin:0}
+h2{float:left;_margin:10px 0 0 8px;font-size:15px;font-weight:700;margin:8px 0 0;display:block}
+p{margin:0;padding:0}
+a{color:#3280ab;text-decoration:none}
+a:hover{color:#000;text-decoration:underline}
+#tip{float:right;color:#999;font-size:12px;margin:0 30px 0 0}
+#tip b{font-size:24px;margin:3px}
+#submit_btn{background:url(../img/btn.png);border:none;float:right;width:120px;height:42px;color:#FFF;font-size:16px;font-weight:700;}
+#submit_btn:hover{background:url(../img/btn.png);background-position:-120px;cursor:pointer}
+#textbox{font-size:14px;overflow:hidden;width:430px;height:80px;background-color:#fbfbfb;border:1px solid #A7A6AA;padding:5px;margin:0}
+#textbox:hover{background-color:#FFF}
+#share{width:500px;height:250px; margin:20px 30px 0 30px;background:#fff;border:solid 1px #c7c5b8;padding:10px 20px;-moz-border-radius:10px;}
+#copyright{width:540px;text-align:center;margin:7px 30px;background:#fff;border:solid 1px #c7c5b8;padding:5px 0;-moz-border-radius:10px;}
+#url{font-size:12px;width:434px;background-color:#fbfbfb;border:1px solid #A7A6AA;padding:3px}
+#url:hover{background-color:#FFF}
+.title{font-blod:normal;width:40px;display:block;}
+table tr td{padding:5px 0;}
+#message{margin-top:100px;font-size:14px;text-align:center;}
